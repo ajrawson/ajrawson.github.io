@@ -1,6 +1,6 @@
 ---
 title: A sample example
-layout: post
+type: posts
 ---
 
 A nice **sample** markdown page
