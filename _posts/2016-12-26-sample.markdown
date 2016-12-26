@@ -1,6 +1,6 @@
 ---
-title: "A sample example"
-layout: "posts"
+title: A sample example
+layout: post
 ---
 
 A nice **sample** markdown page
