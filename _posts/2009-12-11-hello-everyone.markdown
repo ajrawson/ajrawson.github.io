@@ -1,5 +1,6 @@
 ---
 title: Hello Everyone!
+layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
