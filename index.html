@@ -9,7 +9,7 @@ title: Blog
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <i><span>{{ post.date | date: "%m/%d/%Y" }}</i>
         <p>
-            {{ post.excerpt }} <a href="{{ post.url }}">Check It Out →</a>
+            {{ post.excerpt }} 
             <br /><b>Tags:</b> {{ post.tags | array_to_sentence_string }}
             </p>
     </article>
