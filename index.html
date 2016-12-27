@@ -10,7 +10,7 @@ title: Blog
         <i><span>{{ post.date | date: "%m/%d/%Y" }}</i>
         <p>
             {{ post.excerpt }} 
-            <br /><b>Tags:</b> {{ post.tags | array_to_sentence_string }}
+            <b>Tags:</b> {{ post.tags | array_to_sentence_string }}
             </p>
     </article>
     {% endfor %}
