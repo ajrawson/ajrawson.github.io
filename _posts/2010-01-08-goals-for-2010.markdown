@@ -11,16 +11,16 @@ I wanted to get a post up for my goals for 2010, both as motivation by holding m
 __Professional Goals:__
 
 1. Learn ASP.Net MVC, by either creating a project on my own or participating in an open source MVC project.  My hope with learning MVC is that it will force me to obtain a better understanding of how web programming works and how to create a successful project with a different type of web development framework.
-2. Along with MVC I’d like to get to a comfortable understanding of jQuery and be able to start using it on a more frequent basis in my web projects.
-3.  I would like to start blogging more and sharing my findings and ideas on what I’ve learned in software development, areas of concern I have, and give some ideas and thoughts on how and where I think developers and development teams can improve their development practices and projects.  My goal is 50 blog posts in 2010.  I may start off slow because I’m a new blogger but hopefully I can keep motivated and creating new posts.
+2. Along with MVC I'd like to get to a comfortable understanding of jQuery and be able to start using it on a more frequent basis in my web projects.
+3.  I would like to start blogging more and sharing my findings and ideas on what I've learned in software development, areas of concern I have, and give some ideas and thoughts on how and where I think developers and development teams can improve their development practices and projects.  My goal is 50 blog posts in 2010.  I may start off slow because I'm a new blogger but hopefully I can keep motivated and creating new posts.
 4.  I would also like to get involved in an open source project, I think this will give me the opportunity to be around some people that could mentor me and help me become a better programmer.  Plus reading other programmers code is one of the best ways to learn in my opinion, only thing better is when you figure something out yourself.
-5. Continue to help fellow software developers in my area improve their development skills.  Currently I’m doing this as the president of the Cedar Valley .net User Group and would like to continue to work with the group and the local community.  This might even include starting to present on technology topics at user group events.
+5. Continue to help fellow software developers in my area improve their development skills.  Currently I'm doing this as the president of the Cedar Valley .net User Group and would like to continue to work with the group and the local community.  This might even include starting to present on technology topics at user group events.
 
 __Personal Goals:__
 
 1. Start working towards obtaining my MBA, recently I was accepted to the University of Iowa and am scheduled to start my first class this spring semester.  I hope to continue that this year and really take my chance at an MBA very seriously, I think it will give me some great experience and knowledge.  I hope that I will be able to take what I learn in the MBA program and help improve how software in created and developed for future development teams I work with.
-2. To get back into good shape, I haven’t completely been inactive but not like I was early in 2009 and in years past.   To help motivate myself I will find sporting events to train for and participate in, for example RAGBRAI and 5k’s.  If I didn’t swim like a rock I would really like to attempt a mini triathlon.
+2. To get back into good shape, I haven't completely been inactive but not like I was early in 2009 and in years past.   To help motivate myself I will find sporting events to train for and participate in, for example RAGBRAI and 5k's.  If I didn't swim like a rock I would really like to attempt a mini triathlon.
 3.  Keep a positive outlook on life and tell my friends and family how much they mean to me as much as possible, this is important!
 4. To quit using exclamation points so much :)!!!!!!
 
-I hope you weren’t bored by my 2010 list and if anyone has any advice to comments on my list I’d love to hear them.
+I hope you weren't bored by my 2010 list and if anyone has any advice to comments on my list I'd love to hear them.
