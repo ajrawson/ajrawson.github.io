@@ -5,10 +5,12 @@ layout: default
 ---
 
 <h1><i>{{ page.title }}</i></h1>
-<p class="meta">{{ page.date | date: "%m/%d/%Y" }} <b> Tags:</b> {{ page.tags | array_to_sentence_string }}</p>
+<p class="meta">{{ page.date | date: "%m/%d/%Y" }} </p>
 
 <div class="post">
     
 	{{ content }}
 
 </div>
+
+<p class="meta"><b>Tags:</b> {{ page.tags | array_to_sentence_string }}</p>
