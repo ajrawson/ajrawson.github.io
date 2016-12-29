@@ -1,0 +1,13 @@
+---
+title: Using SquishIt on a site running under a named user (Active Directory).
+layout: post
+type: posts
+tags: [MVC]
+categories: [tech]
+---
+
+I wanted to make some performance improvements on a project I had been working on last week and decided to give SquishIt a try and start compressing and combining my javascript and css files.  This is not a post about how to setup SquishIt, others have covered this really well and if you want to learn more about that check this link out Learn SquishIt.  In this post I would just like to take a moment and remind people of some things to take into consideration if they are using SquishIt. 
+
+First of all setting up and using SquishIt was a breeze, I really enjoyed every part of it and plan on using it in projects I work on the future.  I did run into one problem when I was trying to get SquishIt working on my Windows 2008 web server, and I wanted to take some time to get the solution written down.  I was able to setup and run SquishIt easily from my development machine but started getting permission errors when I published my MVC application to my staging server.  After digging through the error messages and taking some time to understand how SquishIt was working, I was able to figure out the named user my site was running under was causing my issues.  What SquishIt does is combine and compress the javascript and css files you’ve selected in your project and places their combined files in the file location you’ve specified. (click the Learn SquishIt link to learn more about this).  The issue I saw with permissons had to do with SquishIt not have access to write the combined files to the specified file location.  I went and checked if the named user I was running my site under had write access to the folders that needed to be written to and it did not.  I then added write access for the named user and saved those changed and reran my application on the staging server and was able to access the site without running into any permission errors.  To clearify, if your using any libraries that need to write to the project folders, make sure your named user has access to write to those folders.  After getting the site running, I verified the site was using the combined css and javascript files from SquishIt with FireBug, and it was.  I then compared stats of my site from using uncombined and uncompressed files to using combinded and compressed files and the size of my site’s download drop by 1/3 in size.  Hopefully you’ll find SquishIt as useful and beneficial as I have and if you run into any permission issues on your sites, check to make sure the user the sites running under has write access to the appropriate folder.
+
+Happy Programming!
