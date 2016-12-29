@@ -14,8 +14,6 @@ Another person / group that did an amazing job was our photographer, [Danny Vasq
 
 Below is a video montage Danny put together with some of the photo’s he took on Lauren and I’s wedding day.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_OmRze63SmI" target="_blank"><img src="http://img.youtube.com/vi/_OmRze63SmI/0.jpg" alt="Wedding Time" width="240" height="180" border="10" /></a>
-
 <iframe width="854" height="480" src="https://www.youtube.com/embed/_OmRze63SmI" frameborder="0" allowfullscreen></iframe>
 
 Thanks to everyone else who helped make our wedding so special, we can’t say thanks enough for all you did.  Love you all!
