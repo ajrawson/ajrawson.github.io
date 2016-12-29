@@ -10,10 +10,10 @@ During this past football season (2010 sesason), I was part of a football pickem
 
 Here were my rules for using vegas odds:
 
-* I would always make my picks on Wednesday from the [Vegas.com](https://www.vegas.com/gaming/?utm_content=WYlUkDWlJTFjzWgythXfI0rEUkkXLWwuNxnwxI0&utm_campaign=27795_267847&utm_medium=affiliate&utm_source=impactradius&irgwc=1) website.
-* If the point spread was less then 1 pt I would always pick the home team.
-* I would use the vegas totals for guessing the total score for Monday night games.
-* And no changing picks (this cost me when the Metrodome decided to go domeless).
++ I would always make my picks on Wednesday from the [Vegas.com](https://www.vegas.com/gaming/?utm_content=WYlUkDWlJTFjzWgythXfI0rEUkkXLWwuNxnwxI0&utm_campaign=27795_267847&utm_medium=affiliate&utm_source=impactradius&irgwc=1) website.
++ If the point spread was less then 1 pt I would always pick the home team.
++ I would use the vegas totals for guessing the total score for Monday night games.
++ And no changing picks (this cost me when the Metrodome decided to go domeless).
 
 And now for the final results (the numbers will represent the weeks):
 
