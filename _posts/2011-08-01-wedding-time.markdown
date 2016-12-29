@@ -16,6 +16,7 @@ Below is a video montage Danny put together with some of the photo’s he took o
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/_OmRze63SmI" frameborder="0" allowfullscreen></iframe>
 
+
 Thanks to everyone else who helped make our wedding so special, we can’t say thanks enough for all you did.  Love you all!
 
 Aaron & Lauren
