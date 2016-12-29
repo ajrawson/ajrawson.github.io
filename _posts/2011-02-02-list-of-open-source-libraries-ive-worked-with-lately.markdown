@@ -9,6 +9,7 @@ categories: [tech]
 I’ve been wanting to make a list of open source projects I’ve been working with for some time, and decided today was the day.  Some of these libraries I’ve spent a lot of time with and know very well and some I’ve just been using for one purpose or another.  But without furher adieu here is the list:
 
 .Net open source libraries
+
 + [AutoMapper](http://automapper.codeplex.com/)
 + [Elmah](https://code.google.com/p/elmah/)
 + [nUnit](http://www.nunit.org/)
@@ -16,6 +17,7 @@ I’ve been wanting to make a list of open source projects I’ve been working w
 + [StructureMap](http://docs.structuremap.net/)
 
 Javascript open source libraries
+
 + [jQuery](http://jquery.com/)
 + [jQuery-ui](http://jqueryui.com/)
 + [jQuery.validate](http://learn.jquery.com/Plugins/validation)
