@@ -29,6 +29,6 @@ Was helping someone with an ajax issue the other day and to help diagnose what t
 
 You’ll end up with something looking like this:
 
-![Error Display Image](/assets/img/20101029/figure1.jpg)
+![Error Display Image](/assets/img/20111020/figure1.jpg)
 
 Hopefully this helps you out if our run into some issues with your ajax requests.
