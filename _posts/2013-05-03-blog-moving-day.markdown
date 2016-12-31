@@ -18,6 +18,6 @@ I ended up picking tumblr for a few reasons: One I had played with tumblr a few 
 
 So far, I’m extremely happy with how easy it was to set everything up in tumblr, and get it configured how I wanted.  I was able to find a theme that would allow me to use [disqus](https://disqus.com/) comments, easily able to hook up google analytics, and to get my custom domain pointed to tumblr without any issues.   The only thing I was slightly bummed about was that I lost the comments on my posterous blog because I switched to discus for comments.  Not a huge issue since I didn’t have a ton of comments, but their were a few posts with some good discussions in the comments. 
 
-![Figure 2](/assets/img/20130503/figure1.jpg)
+![Figure 2](/assets/img/20130503/figure2.jpg)
 
 I have to say I am extremely happy with how easy it was to move my blog and how quick I was able to get it setup and configured. Now I just hope I don’t get an email from tumblr saying their shutting down tomorrow ;).
