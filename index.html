@@ -13,6 +13,9 @@ title: Blog
   <div class="content">
     {{ post.content }}
   </div>
+  <div class="tags">
+	<b>Tags:</b> {{ page.tags | array_to_sentence_string }}
+  <div>
 {% endfor %}
 
 
