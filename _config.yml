@@ -3,6 +3,8 @@ theme: jekyll-theme-midnight
 title: [ajrawson.com]
 description: [Writing code and having fun doing it!]
 
+google_analytics: [UA-12967939-1]
+
 paginate: 5
 paginate_path: "/blog/page:num/"
 
