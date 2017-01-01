@@ -1,4 +1,3 @@
-
 ---
 title: Trying Something New
 layout: post
@@ -7,6 +6,7 @@ tags: [Personal, Blog]
 categories: [Personal]
 comments: true
 ---
+
 Well the [tumblr](https://www.tumblr.com/) experiment didn't go well, as you can probably tell from the previous blog post's publish date.  With the encouragement awhile back from my friend @mikecole I've decided to give [Jekyll](https://jekyllrb.com/) and its [github pages](https://pages.github.com/) integrations a try for a blogging site.  
 
 I have nothing bad to say about tumblr, I was just never excited about having them host my blog and because of that I never felt like blogging.  I'm hoping with this move to Jeykll and github pages I'll find the spark to start blogging again.
