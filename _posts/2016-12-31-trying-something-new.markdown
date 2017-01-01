@@ -3,7 +3,7 @@
 title: Trying Something New
 layout: post
 type: posts
-tags: [Blog]
+tags: [Personal, Blog]
 categories: [Personal]
 comments: true
 ---
