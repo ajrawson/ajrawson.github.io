@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
+comments: true
 ---
 
 I’m a religious person and came across this passage in my daily readings and felt I should share it.  It pertains to all things in life, but I can see its value and power when looking at it from a technical and entrepreneurial point of view.

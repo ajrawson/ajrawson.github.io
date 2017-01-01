@@ -1,6 +1,10 @@
 ---
 title: A sample example
+layout: post
 type: posts
+tags: [Blog]
+categories: [Personal]
+comments: false
 ---
 
 A nice **sample** markdown page

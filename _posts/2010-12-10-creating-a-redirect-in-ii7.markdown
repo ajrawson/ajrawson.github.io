@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [IIS]
 categories: [tech]
+comments: true
 ---
 
 This post will cover adding a redirect for a specific URL in IIS7.  In my case I needed to do a redirect from a site with the url www.yourdomain.com/new to a url with a different subdomain, for example new.yourdomain.com.  But this example can be used for any redirect in IIS.

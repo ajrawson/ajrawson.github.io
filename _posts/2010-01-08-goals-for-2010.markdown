@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
+comments: true
 ---
 
 I wanted to get a post up for my goals for 2010, both as motivation by holding myself accountable for my goals and to share them with others.  I will have a list of professional and personal goals.

@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Presentations]
 categories: [Tech]
+comments: true
 ---
 
 I recently gave a presentation at the Cedar Valley .net User Group meeting in Cedar Falls, Iowa. The presentation was a 100 level presentation on source control and how it works for most .net programmers, and how programmers could use branching to help them manage their source control and projects.

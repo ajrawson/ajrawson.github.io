@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [MVC, jQuery, javascript, ASP.NET]
 categories: [tech]
+comments: true
 ---
 
 I’ve been wanting to make a list of open source projects I’ve been working with for some time, and decided today was the day.  Some of these libraries I’ve spent a lot of time with and know very well and some I’ve just been using for one purpose or another.  But without furher adieu here is the list:

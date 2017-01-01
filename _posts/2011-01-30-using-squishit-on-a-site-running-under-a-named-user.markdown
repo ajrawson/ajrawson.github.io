@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [MVC]
 categories: [tech]
+comments: true
 ---
 
 I wanted to make some performance improvements on a project I had been working on last week and decided to give SquishIt a try and start compressing and combining my javascript and css files.  This is not a post about how to setup SquishIt, others have covered this really well and if you want to learn more about that check this link out Learn SquishIt.  In this post I would just like to take a moment and remind people of some things to take into consideration if they are using SquishIt. 

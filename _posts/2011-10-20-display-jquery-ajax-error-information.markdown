@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [jQuery, Javascript]
 categories: [tech]
+comments: true
 ---
 
 Was helping someone with an ajax issue the other day and to help diagnose what the error was I wrote a little jQuery code to display error information at the bottom of the page.  I’m sure there are about a thousand other plugins and posts out there for displaying error information about ajax requests, but thought I’d share mine anyways in hopes that it would help someone out.

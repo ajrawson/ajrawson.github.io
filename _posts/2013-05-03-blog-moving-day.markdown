@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Blog]
 categories: [Personal]
+comments: true
 ---
 
 Since posterous (my old blog host) announced it was [shutting down](https://twitter.com/posterous/status/327867916718575618) I’ve known I needed to move my blog, but nothing like waiting til the last minute to finally get it done.  On April 29th I got an final warning email from posterous saying I had until April 30th to do something with my blog.  So rushing through my options I decided to move my blog to tumblr. 

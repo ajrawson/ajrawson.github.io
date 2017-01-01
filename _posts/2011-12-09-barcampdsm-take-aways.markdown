@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Reviews]
 categories: [tech]
+comments: true
 ---
 
 I wanted to take some time and thank the organizers of BarCamp Des Moines, they did another amazing job this year.  This was the 2nd Des Moines BarCamp and also my 2nd time attending and I have to say this is quickly becoming one of my favorite events of the year.  You could call it a conference if you want but it really isn’t in the same sense, if you’re curious as to what BarCamp is check out [wikipedia](https://en.wikipedia.org/wiki/BarCamp). One of the big reasons why I enjoy this event is because it’s not all technical, there are technical people in attendance but there are also designers, businessmen, entrepreneur, and regular Joe’s as well.  Because of this mix you get some really interesting presentations and conversations happening throughout the day, and thats what I enjoy about this event.

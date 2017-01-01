@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
+comments: true
 ---
 
 This is a personal blog post, and just wanted to share with everyone that I got married a few weeks ago to my best friend, Lauren.  It was an awesome day, a little hot, wedding was amazing and filled with so many close friends and relatives.  My wife Lauren and I couldn’t have asked for a better day, well less heat.  Thanks to everyone who attended the wedding and a very big special thanks to all those that helped make our day so special.  We both thought it was really cool how our entire wedding was filled with friends and family, even down to the musicians, photographer, and deacon.  It just made the whole experience even more special knowing that we were totally surrounded by love and friendship.

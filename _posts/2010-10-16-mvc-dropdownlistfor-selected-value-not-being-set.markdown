@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [MVC]
 categories: [tech]
+comments: true
 ---
 
 I came across an issue the other day with the DropDownListFor Html Helper in ASP.Net MVC 2. For some reason the selected value of the drop down list was not being set by the HTML Helper, but only seemed to happen with one instance of the overloaded functions. My issue became apparent when I was validating data in my controller and sending the populated ViewModel back to the view if the data was invalid. I wanted all the previously selected values and text to retain their previous values but for some reason the DropDownListFor’s were not working. For Example in the code snippet below is the DropDownListFor that wasn’t working for me.

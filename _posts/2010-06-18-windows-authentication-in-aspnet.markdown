@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [IIS]
 categories: [tech]
+comments: true
 ---
 
 Was doing some research on how Windows Authentication worked in an ASP.Net MVC application I was working on for work and wanted to get research and testing written down for future reference. Hopefully if you read this you’ll find it helpful as well, or if you have any additional info or advice please share them in the comments. 

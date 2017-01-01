@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Random, Personal]
 categories: [Personal]
+comments: true
 ---
 
 During this past football season (2010 sesason), I was part of a football pickem pool with a group of friends of mine.  If your even a small of NFL fan you know it’s pretty tough to pick the winners of games.  First because free agency makes the teams farily even, secondly because of free agency a team is not the same from year to year and heck week to week because of injuries, and there are a ton of other reasons.  Since I decided trying to guess the winners wasn’t an option, and making an educated pick was going to take a lot of work and time I didn’t have I decided to use vegas odds to pick my winners.  Another reason I chose to use vegas odds was to see how accurate Vegas was in picking NFL football games, and maybe if I’m lucky they’ll help me win a little money along the way.  

@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
+comments: true
 ---
 
 My name is Aaron and I wanted to start a blog to share my experiences with Software Development.  These blog posts are not only a record for myself to look back at but also hopefully can help other software developers with issues or problems that I have already come across.

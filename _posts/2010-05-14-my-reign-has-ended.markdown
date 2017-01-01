@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
+comments: true
 ---
 
 Recently I stepped down as the president of the Cedar Valley .net User Group to take a more supportive role in the group. I wanted to step down because I felt like I wasn’t able to give the group the attention it deserved since I started Grad school. Doing well and getting the most out of my Grad school experience is more important to me right now then running the user group. I don’t think that’s a bad thing, you just evolving priorities and at this time it’s Grad school. I am still going to be involved with the group but just not to the level I was previously.

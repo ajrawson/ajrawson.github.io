@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Personal]
 categories: [Personal]
+comments: true
 ---
 
 I know I haven’t blogged like I wanted to when I started this adventure, so I thought I’d explain what I’ve been doing for the past few months. First of all I started taking classes towards my MBA back in January and have been spending a lot of time on that. I recently just completed my first class and did well on that and will be taking a few months off before I take my next class. I’m really excited to be back in school and working towards my MBA and have already learned some valuable skills that I will be able to use in my job. Most of those skills I’ve learned relate more to management, but I hope to use those skills someday in the future. There are a few things I picked up that I will be able to use in my everyday work life that I’m excited to get the chance to use.

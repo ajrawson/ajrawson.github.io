@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [jQuery, javascript]
 categories: [tech]
+comments: true
 ---
 
 In this post I want to cover how we can mask the value of an input thats using the jQuery UI datepicker, so if a user enters a date into the input field it is formatted correctly.  Also by supplying a mask to the input field it will give a user an idea of the date format required if they enter the date manually, below is an example if what we will create (using MM/dd/yyyy).

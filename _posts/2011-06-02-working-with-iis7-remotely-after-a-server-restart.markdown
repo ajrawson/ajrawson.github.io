@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [IIS]
 categories: [tech]
+comments: true
 ---
 
 Since this has bit me in the butt a couple times, I wanted to post a little reminder on a configuration you shouldn’t forget about when setting up your IIS to be managed remotely. 

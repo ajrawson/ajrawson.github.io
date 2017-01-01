@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [Reviews]
 categories: [Tech]
+comments: true
 ---
 
 I saw someone mention on twitter a few weeks ago, about how they were intending to blog a review of a conference they were attending as well as each session they attended. I thought this was a really good idea, at that time I decided I was going to do the same thing starting with the Iowa Code Camp. So here it goes! 

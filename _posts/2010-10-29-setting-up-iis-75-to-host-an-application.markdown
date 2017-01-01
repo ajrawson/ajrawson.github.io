@@ -4,6 +4,7 @@ layout: post
 type: posts
 tags: [IIS, MVC]
 categories: [tech]
+comments: true
 ---
 
 Recently I was tasked with creating and setting up an ASP.Net MVC web application that was to be deployed on a new Windows Server 2008 virtual machine that was running IIS 7.5. Being a newbie to IIS, I had a lot to learn to get this completed. After much trial and error, research, and help from my twitter friends I was finally able to get the site up and running. Below is the steps I followed to get the site up and running.
